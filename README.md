@@ -62,13 +62,10 @@ A custom 64-bit Linux-based operating system platform built from scratch. Featur
 
 ---
 
-## 🏆 GitHub Badges & Achievements
+## 🏆 Unlocked GitHub Achievements
 
-- **⚡ Quickdraw**: Closed issue/PR within 5 minutes.
-- **🦈 Pull Shark**: Merged Pull Requests into default branch.
-- **🤪 YOLO**: Merged Pull Requests without code review.
-- **👥 Pair Extraordinaire**: Co-authored merged contributions.
-- **🧠 Galaxy Brain**: Answered community Q&A discussions.
+- 🤠 **Quickdraw**: Closed an Issue or Pull Request within 5 minutes.
+- 🦈 **Pull Shark**: Merged Pull Requests into default branch.
 
 ---
 
