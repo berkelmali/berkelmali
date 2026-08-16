@@ -130,11 +130,16 @@
 
 <div align="center">
 
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=berkelmali&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true" alt="Berk's GitHub Stats" />
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=berkelmali&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=berkelmali&theme=radical" alt="GitHub Profile Details" />
 
   <br/><br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=berkelmali&theme=radical&hide_border=true" alt="GitHub Streak" />
+
+  <img src="https://streak-stats.demolab.com/?user=berkelmali&theme=radical&hide_border=true" alt="GitHub Streak Stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=berkelmali&theme=radical" alt="Top Languages by Commits" />
+
+  <br/><br/>
+
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=berkelmali&theme=react-dark&hide_border=true&area=true" alt="Contribution Graph" width="95%" />
 
 </div>
 
