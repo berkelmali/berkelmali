@@ -1,126 +1,167 @@
 <div align="center">
 
 # 💫 Berk Elmalı
-### 💻 Computer Engineer | Systems Architecture & Game Engines | Open Source Contributor
+### 💻 Computer Engineer · Systems & Low-Level · Security & Network Architect · Open Source Contributor
 
-<p align="center">
-  <a href="https://github.com/berkelmali"><img src="https://komarev.com/ghpvc/?username=berkelmali&label=Profile%20Views&color=007acc&style=for-the-badge" alt="Profile Views"/></a>
-  <a href="https://linkedin.com/in/berkelmali"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="https://github.com/berkelmali"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
-  <a href="mailto:berk9elmali9@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-</p>
+[![Profile Views](https://komarev.com/ghpvc/?username=berkelmali&label=Profile%20Views&color=0ea5e9&style=for-the-badge)](https://github.com/berkelmali)
+[![GitHub Followers](https://img.shields.io/github/followers/berkelmali?style=for-the-badge&color=6366f1&logo=github)](https://github.com/berkelmali)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/berkelmali)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:berk9elmali9@gmail.com)
 
-```
-  ____            _      _____ _                 _ _ 
- |  _ \          | |    |  ___| |               | (_)
- | |_) | ___ _ __| | __ | |__ | |_ __ ___   __ _| |_ 
- |  _ < / _ \ '__| |/ / |  __|| | '_ ` _ \ / _` | | |
- | |_) |  __/ |  |   <  | |___| | | | | | | (_| | | |
- |____/ \___|_|  |_|\_\ |_____|_|_| |_| |_|\__,_|_|_|
-```
+<br/>
 
-> 🚀 **Passionate Computer Engineer** with deep expertise in **Operating Systems Architecture**, **Real-Time Multiplayer Game Engines**, **Full-Stack Database Systems**, and **Large-Scale Open Source Strategy Game Simulation**.
-
----
+> *"Turning complex low-level concepts, operating systems, and network protocols into elegant, secure, and resilient software."*
 
 </div>
 
-## 🌟 Featured Projects
-
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3 align="center">🖥️ <a href="https://github.com/berkelmali/BotOS">BotOS Core</a></h3>
-      <p align="center">
-        <img src="https://img.shields.io/badge/Language-C%20%2F%20Python-3776AB?style=flat-square&logo=c" />
-        <img src="https://img.shields.io/badge/Platform-64--bit%20Linux-FCC624?style=flat-square&logo=linux&logoColor=black" />
-        <img src="https://img.shields.io/badge/Architecture-Custom%20Window%20Server-red?style=flat-square" />
-      </p>
-      <p>
-        <strong>A custom 64-bit Linux-based operating system platform built from scratch</strong> engineered for developer ergonomics and high-performance computing:
-      </p>
-      <ul>
-        <li><strong>BotDesk Desktop Environment:</strong> Custom lightweight micro-window compositor and window management layer designed for seamless multitasking.</li>
-        <li><strong>PyBridge Runtime Engine:</strong> High-performance C-to-Python bidirectional integration bridge allowing native execution speeds with rapid Python scripting.</li>
-        <li><strong>FreeType Anti-Aliasing & Rendering:</strong> Subpixel font rasterization and graphics pipeline integrated directly over X11 windowing primitives.</li>
-        <li><strong>BotUI SDK:</strong> Modular C/Python graphical user interface toolkit with declarative widget styling and lifecycle management.</li>
-      </ul>
-    </td>
-    <td width="50%" valign="top">
-      <h3 align="center">🃏 <a href="https://github.com/berkelmali/ERS-Multiplayer-game">ERS Multiplayer Game</a></h3>
-      <p align="center">
-        <img src="https://img.shields.io/badge/Frontend-ES6%2B%20%2F%20CSS3%203D-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
-        <img src="https://img.shields.io/badge/Cloud-Firebase%20RTDB%20%26%20Functions-FFCA28?style=flat-square&logo=firebase&logoColor=black" />
-        <img src="https://img.shields.io/badge/Tests-53%20Unit%20Tests%20Passing-brightgreen?style=flat-square" />
-      </p>
-      <p>
-        <strong>Fast-paced, real-time multiplayer & AI-powered web implementation of the Egyptian Rat Screw card game:</strong>
-      </p>
-      <ul>
-        <li><strong>Sub-Millisecond Slap Engine:</strong> Single-source-of-truth validation (Double, Sandwich, Tens, Marriage, Top-Bottom, 4-in-a-Row, Triple) with millisecond-grade reaction tracking.</li>
-        <li><strong>Cloud Authority & Anti-Cheat:</strong> Cloud Functions backend validating transaction attempts and concurrency locks.</li>
-        <li><strong>Interactive Audio & Visuals:</strong> Dynamic Web Audio API soundscapes (Tension Drone), 3D Parallax table physics, and procedural Canvas post-game MVP cards.</li>
-        <li><strong>Multi-Agent AI & i18n:</strong> 4 distinct bot personalities (Aggressive, Balanced, Cautious, Troll) + multi-language support (TR, EN, DE, ES).</li>
-      </ul>
-    </td>
-  </tr>
-</table>
-
 ---
 
-## 🏆 Open Source Contributions & Achievements
-
-### 🌍 Core Contributor to [OpenFrontIO (OpenFront)](https://github.com/openfrontio/OpenFrontIO)
-*A massively multiplayer real-time strategy (RTS) game on Steam and Web featuring 100+ concurrent players on a shared global map (AGPL-3.0).*
-
-```
-┌────────────────────────────────────────────────────────────────────────┐
-│                      OpenFrontIO Engine & PRs                          │
-│                                                                        │
-│   [Client / Canvas]            [Simulation / Core]       [AI Subsystem] │
-│           │                             │                      │       │
-│  Dynamic Coastline Coloring    WinCheck Division Guard   Bot Economic   │
-│  (Merged in Official Release)  & DonateGold Null Safety   Expansion     │
-│                                (PR #4891, #4892)         (PR #4924)    │
-└────────────────────────────────────────────────────────────────────────┘
-```
-
-#### 🎯 Key Merged PRs & Architectural Improvements:
-* 🎨 **Dynamic Coastline & Shoreline Color Engine (Official Release):**
-  - Designed dynamic coastline gradient calculation that calculates shoreline water shaders dynamically against the player's custom ocean color palette, replacing legacy static bright blue rendering.
-* 🛡️ **`WinCheckExecution` Fallout Zero-Division Protection (PR #4891):**
-  - Implemented mathematical bounds checking guarding against critical division-by-zero crashes triggered when nuclear fallout coverage reaches 100% of the active map.
-* 💰 **`DonateGoldExecution` Null Transaction Safety (PR #4892 - #4092):**
-  - Refactored the core transaction constructor to safely preserve and sanitize `null` gold parameters, preventing unhandled runtime exceptions in multiplayer trade events.
-* 🤖 **AI Economic Construction & Defensive Pathfinding (PR #4924):**
-  - Resolved blocking states where AI defense post placement exceptions halted the entire bot economic construction scheduler, restoring automated expansion loops for computer players.
-
----
-
-## 📂 Deep Dive into Notable Repositories
-
-| Repository | Tech Stack | Domain | Key Architecture & Highlights |
-| :--- | :--- | :--- | :--- |
-| 🖥️ **[BotOS](https://github.com/berkelmali/BotOS)** | `C` `Python` `X11` `FreeType` | Systems & OS | 64-bit custom Linux-based OS platform with micro-window compositor (BotDesk), C-to-Python runtime bridge (PyBridge), and high-fidelity GUI toolkit (BotUI). |
-| 🃏 **[ERS-Multiplayer-game](https://github.com/berkelmali/ERS-Multiplayer-game)** | `JavaScript (ESM)` `Firebase` `Web Audio` | Game Dev & Cloud | 2-4 player real-time card engine with millisecond slap validation, 3D CSS table physics, dynamic Web Audio sound engine, and 4 distinct AI personalities. |
-| 🎓 **[SQL_University_DBMS](https://github.com/berkelmali/SQL_University_DBMS)** | `JavaScript` `SQL` `Relational DB` | Database Systems | Enterprise-grade academic database schema managing course registrations, departmental hierarchies, transcripts, and ACID-compliant transaction safety. |
-| ✈️ **[SQL_FPDMS](https://github.com/berkelmali/SQL_FPDMS)** | `JavaScript` `SQL` `Schema Design` | Data Architecture | Flight Passenger & Fleet Data Management System with high-performance querying, route scheduling, seat allocation, and relational integrity. |
-| 🌐 **[Discord-DNS](https://github.com/berkelmali/Discord-DNS)** | `Python` `Discord API` `Networking` | Network Utilities | Automated remote Dynamic DNS management bot allowing real-time network reconfiguration, domain records sync, and routing via Discord commands. |
-| 📝 **[word](https://github.com/berkelmali/word)** | `Python` `Algorithms` | NLP & Parsing | Algorithmic lexical parser and string processing toolkit for tokenization, pattern recognition, and linguistic text analysis. |
-
----
-
-## 🛠️ Tech Stack & Engineering Toolbox
+## 🏆 Open Source Highlights & Upstream Contributions
 
 <div align="center">
 
-| Category | Technologies & Tools |
-| :--- | :--- |
-| **Languages** | `C` • `C++` • `Python` • `JavaScript (ES6+)` • `TypeScript` • `SQL` • `HTML5 / CSS3` |
-| **Systems & OS Engineering** | `Linux x86_64` • `X11 Windowing` • `FreeType 2` • `Low-Level Memory Management` • `C/Python CFFI` • `CMake` • `QEMU` |
-| **Game & Realtime Web** | `Firebase Realtime DB` • `Firestore` • `Web Audio API` • `HTML5 Canvas 2D` • `CSS 3D Engine` • `WebSockets` |
-| **Databases & Architecture** | `Relational Schema Design` • `PostgreSQL / MySQL` • `Stored Procedures & Triggers` • `ACID Transactions` |
-| **Cloud & DevOps** | `Firebase Cloud Functions` • `Firebase Hosting` • `Docker` • `Git & GitHub Actions` • `Node.js ESM` |
+### ⚔️ [OpenFrontIO](https://github.com/openfrontio/OpenFrontIO) — Online Browser RTS Game Engine
+**19+ Merged Pull Requests** directly into the upstream core game engine, server architecture, and client rendering pipeline.
+
+[![Merged PRs](https://img.shields.io/badge/Merged%20PRs-19%2B-22c55e?style=for-the-badge&logo=git&logoColor=white)](https://github.com/openfrontio/OpenFrontIO/pulls?q=is%3Apr+author%3Aberkelmali+is%3Amerged)
+[![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)](https://github.com/openfrontio/OpenFrontIO)
+[![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)](https://github.com/openfrontio/OpenFrontIO)
+[![WebSocket](https://img.shields.io/badge/WebSocket-Realtime-orange?style=for-the-badge)](https://github.com/openfrontio/OpenFrontIO)
+
+</div>
+
+| Category | Key Merged Works & Innovations | PR Links |
+|:---|:---|:---:|
+| 🛡️ **Security & Reliability** | **Desync DoS Vulnerability Patch**: Resolved critical state desynchronization via strict majority consensus logic. Fixed WebSocket teardown crashes and protected IPC broadcast streams against connection drops. | [#3956](https://github.com/openfrontio/OpenFrontIO/pull/3956) · [#3936](https://github.com/openfrontio/OpenFrontIO/pull/3936) · [#3939](https://github.com/openfrontio/OpenFrontIO/pull/3939) |
+| 🚀 **Core Game Logic & Math** | **In-flight MIRV & Warhead Cancellation**: Dynamic tactical intercept cancellation upon diplomatic alliance acceptance. Implemented converge-until-stable algorithms for `handleDeadDefender` cascades and recalculated trade ship spawn matrices per roll level. | [#5054](https://github.com/openfrontio/OpenFrontIO/pull/5054) · [#5015](https://github.com/openfrontio/OpenFrontIO/pull/5015) · [#4890](https://github.com/openfrontio/OpenFrontIO/pull/4890) · [#3940](https://github.com/openfrontio/OpenFrontIO/pull/3940) |
+| 🎨 **Client & Rendering** | **Real-Time Dynamic Coastline Engine**: Synchronized ocean color shifts with instant coastline shader recalculations. Resolved ship visual hostility states and enforced player privacy with strict Anonymous Name propagation in tactical event logs. | [#5107](https://github.com/openfrontio/OpenFrontIO/pull/5107) · [#4377](https://github.com/openfrontio/OpenFrontIO/pull/4377) · [#4017](https://github.com/openfrontio/OpenFrontIO/pull/4017) |
+| ⚙️ **Game Rules & AI** | Fixed defensive post tile capture mechanics (demolish on capture vs ownership transfer flaw) and patched bot self-invasion loops. | [#4016](https://github.com/openfrontio/OpenFrontIO/pull/4016) · [#4014](https://github.com/openfrontio/OpenFrontIO/pull/4014) |
+
+---
+
+## 🌟 Flagship Projects & Latest Versions
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🖥️ [BotOS Core](https://github.com/berkelmali/BotOS) `v0.3.0`
+*Custom 64-bit Linux Operating System Platform & Window Manager*
+
+[![Version](https://img.shields.io/badge/Release-v0.3.0-a855f7?style=flat-square&logo=git)](https://github.com/berkelmali/BotOS)
+[![Kernel](https://img.shields.io/badge/Kernel-Linux%20LTS-eab308?style=flat-square&logo=linux)](https://github.com/berkelmali/BotOS)
+[![Stars](https://img.shields.io/github/stars/berkelmali/BotOS?style=flat-square&color=3b82f6)](https://github.com/berkelmali/BotOS)
+
+- **Micro-Window Environment (`BotDesk`)**: Tailored X11-based compositor and display environment with zero bloated desktop dependencies.
+- **`PyBridge` Runtime Architecture**: Dynamic shell REPL C-to-Python runtime integration bridge (`!` prefix execution, inline evaluation).
+- **Custom SDK (`BotUI`)**: Anti-aliased FreeType font rendering, hardware event dispatching, Terminal RPG subsystem, and visual package manager (`BotPkg`).
+
+```
+C11 · Python 3.10+ · Linux Kernel · X11 · FreeType · CMake · QEMU
+```
+
+</td>
+<td width="50%" valign="top">
+
+### ⚡ [Discord-DNS](https://github.com/berkelmali/Discord-DNS) `v3.6`
+*Native WinDivert DPI Bypass & Encrypted DNS Orchestration Engine*
+
+[![Version](https://img.shields.io/badge/Release-v3.6-0ea5e9?style=flat-square&logo=github)](https://github.com/berkelmali/Discord-DNS/releases)
+[![Build](https://img.shields.io/badge/WinDivert-2.2-green?style=flat-square)](https://github.com/berkelmali/Discord-DNS)
+[![Stars](https://img.shields.io/github/stars/berkelmali/Discord-DNS?style=flat-square&color=3b82f6)](https://github.com/berkelmali/Discord-DNS)
+
+- **Native DPI Bypass Engine**: Fully standalone (no GoodbyeDPI dependency); built-in packet surgery for IPv4/IPv6, TCP window sizing, and TLS ClientHello SNI fragmentation.
+- **Layered Diagnostics**: Multi-tier network obstacle diagnosis (`dns_hijack`, `sni_rst`, `sni_timeout`, `tcp_blocked`).
+- **Resilient DoH Proxy**: Integrated 127.0.0.1:53 DNS-over-HTTPS resolver with automated multi-provider latency benchmarking and watchdog failover.
+
+```
+Python · WinDivert 2.2 · Ctypes · Network Packet Surgery · DoH · CustomTkinter
+```
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🛡️ [NotificationKeeper](https://github.com/berkelmali/NotificationKeeper) `v1.0.0`
+*Zero-Cloud Android Vault with Heuristic Recall Detection & Code Shredding*
+
+[![Version](https://img.shields.io/badge/Release-v1.0.0-emerald?style=flat-square&logo=android)](https://github.com/berkelmali/NotificationKeeper)
+[![Room DB](https://img.shields.io/badge/Database-Room%20v7-blueviolet?style=flat-square)](https://github.com/berkelmali/NotificationKeeper)
+[![Stars](https://img.shields.io/github/stars/berkelmali/NotificationKeeper?style=flat-square&color=3b82f6)](https://github.com/berkelmali/NotificationKeeper)
+
+- **Military-Grade Security**: AES-256-CBC vault backups derived with PBKDF2-HMAC-SHA256 (120,000 iterations), combined with native Android BiometricPrompt auth.
+- **Recall Radar™**: Heuristic detection engine flagging silently retracted and deleted push notifications in real time.
+- **Code Shredder**: Auto-destruct background worker destroying ephemeral OTP/2FA verification tokens once expired.
+
+```
+Flutter · Dart · Kotlin Native Bridge · Android Jetpack WorkManager · Room DB · AES-256
+```
+
+</td>
+<td width="50%" valign="top">
+
+### 🌙 [Lunaris](https://github.com/berkelmali/Lunaris) `v3.0`
+*Deterministic Ephemeris & 17-Layer ML Engine for Celestial Prediction*
+
+[![Version](https://img.shields.io/badge/Release-v3.0-f59e0b?style=flat-square&logo=javascript)](https://github.com/berkelmali/Lunaris)
+[![Mobile](https://img.shields.io/badge/Mobile-Capacitor%20(iOS%20%2B%20Android)-blue?style=flat-square&logo=capacitor)](https://github.com/berkelmali/Lunaris)
+[![Stars](https://img.shields.io/github/stars/berkelmali/Lunaris?style=flat-square&color=3b82f6)](https://github.com/berkelmali/Lunaris)
+
+- **Pure JS ML Architecture (v3.0)**: 3-layer Multi-Layer Perceptron (MLP) with Leaky ReLU, natal attention vectors, and spatial cosine similarity with zero external dependencies.
+- **Astronomical Precision**: Keplerian planetary orbits, lunar perturbation modeling (evection, variation), and Gaussian aspect orbs ($\exp(-\Delta\theta^2 / 2\sigma^2)$).
+- **Cross-Platform**: Capacitor-powered Android & iOS deployment with haptic feedback and safe-area optimization.
+
+```
+Vanilla JavaScript · Machine Learning · Astronomical Ephemeris · Capacitor · Firebase
+```
+
+</td>
+</tr>
+</table>
+
+### 🎮 Additional Highlights
+- 🧠 **[Unity-AI-Dialogue-Tool](https://github.com/berkelmali/Unity-AI-Dialogue-Tool)** `v1.0`: Custom Unity Editor extension for asynchronous AI-powered procedural NPC dialogue generation with strict JSON schema serialization. *(C# · Unity Editor API)*
+- 🃏 **[ERS-Multiplayer-game](https://github.com/berkelmali/ERS-Multiplayer-game)**: Real-time multiplayer card engine with low-latency event synchronization and state reconciliation. *(JavaScript · WebSockets)*
+- 🗄️ **[SQL_FPDMS](https://github.com/berkelmali/SQL_FPDMS)** & **[SQL_University_DBMS](https://github.com/berkelmali/SQL_University_DBMS)**: Relational database architecture, normalized schemas, and high-performance transactional procedures. *(PostgreSQL / T-SQL)*
+
+---
+
+## 🛠️ Technical Arsenal
+
+<div align="center">
+
+### Core & Systems Programming
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+
+### Web & Fullstack Engineering
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+### Low-Level, Security & Systems
+![Linux Kernel](https://img.shields.io/badge/Linux_Kernel-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![QEMU](https://img.shields.io/badge/QEMU-FF6600?style=for-the-badge&logo=qemu&logoColor=white)
+![CMake](https://img.shields.io/badge/CMake-06B6D4?style=for-the-badge&logo=cmake&logoColor=white)
+![Network / DPI](https://img.shields.io/badge/Network-DPI%20%26%20Packets-purple?style=for-the-badge)
+![Cryptography](https://img.shields.io/badge/Crypto-AES--256%20%2F%20PBKDF2-blueviolet?style=for-the-badge)
+![Unity](https://img.shields.io/badge/Unity_Engine-101010?style=for-the-badge&logo=unity&logoColor=white)
+
+### DevOps & Data
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 
 </div>
 
@@ -130,21 +171,32 @@
 
 <div align="center">
 
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=berkelmali&theme=radical" alt="GitHub Profile Details" />
+<!-- Official & Highly Reliable Contribution Graph -->
+### 📅 Contribution Graph
+<img src="https://ghchart.rshah.org/0ea5e9/berkelmali" alt="Berk's GitHub Contribution Graph" width="100%" />
 
-  <br/><br/>
+<br/><br/>
 
-  <img src="https://streak-stats.demolab.com/?user=berkelmali&theme=radical&hide_border=true" alt="GitHub Streak Stats" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=berkelmali&theme=radical" alt="Top Languages by Commits" />
+<!-- Verified Active GitHub Stats & Top Languages -->
+<img src="https://github-stats-extended.vercel.app/api?username=berkelmali&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Berk's GitHub Stats" width="49%" />
+<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=berkelmali&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="47%" />
 
-  <br/><br/>
+<br/><br/>
 
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=berkelmali&theme=react-dark&hide_border=true&area=true" alt="Contribution Graph" width="95%" />
+<!-- Active Demolab Streak Stats -->
+<img src="https://streak-stats.demolab.com/?user=berkelmali&theme=tokyonight&hide_border=true" alt="Berk's GitHub Streak" />
 
 </div>
 
 ---
 
 <div align="center">
-  <sub>Designed & engineered by <a href="https://github.com/berkelmali"><strong>@berkelmali</strong></a> • Computer Engineer</sub>
+
+📫 **Let's connect and build something extraordinary!**  
+[LinkedIn](https://linkedin.com/in/berkelmali) · [Email](mailto:berk9elmali9@gmail.com) · [GitHub](https://github.com/berkelmali)
+
+<br/>
+
+*Designed & maintained with care by [@berkelmali](https://github.com/berkelmali)*
+
 </div>
