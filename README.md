@@ -20,7 +20,7 @@
 
 <div align="center">
 
-### ⚔️ [OpenFrontIO](https://github.com/openfrontio/OpenFrontIO) — Online Browser RTS Game Engine
+### ⚔️ [OpenFrontIO](https://github.com/openfrontio/OpenFrontIO)  Online Browser RTS Game Engine
 **19+ Merged Pull Requests** directly into the upstream core game engine, server architecture, and client rendering pipeline.
 
 [![Merged PRs](https://img.shields.io/badge/Merged%20PRs-19%2B-22c55e?style=for-the-badge&logo=git&logoColor=white)](https://github.com/openfrontio/OpenFrontIO/pulls?q=is%3Apr+author%3Aberkelmali+is%3Amerged)
